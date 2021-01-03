@@ -57,7 +57,8 @@
         "Instagram": "1,539",
         "Payment Plan": "10%+10Y+15%Del",
         "Pent-H.SF Av.P": null,
-        "Delivery": 2021
+        "Delivery": 2021,
+        "V.SF Av.P": ""
       }
     },
     {
@@ -131,7 +132,8 @@
         "Instagram": "1,201",
         "Payment Plan": "10%+6Y+0%Del",
         "Pent-H.SF Av.P": "",
-        "Delivery": null
+        "Delivery": null,
+        "V.SF Av.P": ""
       }
     },
     {
@@ -323,7 +325,8 @@
         "Instagram": 23,
         "Payment Plan": null,
         "Pent-H.SF Av.P": "Polygon 5",
-        "Delivery": "ggc"
+        "Delivery": "ggc",
+        "V.SF Av.P": "00"
       }
     },
     {
@@ -412,7 +415,8 @@
         "Instagram": 23,
         "Payment Plan": "aaa",
         "Pent-H.SF Av.P": "Polygon 6",
-        "Delivery": null
+        "Delivery": null,
+        "V.SF Av.P": "00"
       }
     },
     {
@@ -699,7 +703,8 @@
         "Instagram": 123,
         "Payment Plan": null,
         "Pent-H.SF Av.P": "Polygon 9",
-        "Delivery": null
+        "Delivery": null,
+        "V.SF Av.P": ""
       }
     },
     {

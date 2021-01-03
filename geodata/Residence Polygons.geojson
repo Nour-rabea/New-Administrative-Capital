@@ -172,8 +172,8 @@
         "Developer": "MBG",
         "Project": "PUKKA",
         "Consulting": null,
-        "Location": null,
-        "Area": null,
+        "Location": "R7 B9",
+        "Area": "41 acre",
         "BUA": null,
         "Apart.SF Av.P": null,
         "Apart.FF Av.P": null,
@@ -184,13 +184,13 @@
         "Town-H.FF Av.P": null,
         "Twin-H.SF Av.P": null,
         "Twin-H.FF Av.P": null,
-        "Installments": 3,
-        "Launched": null,
-        "Facebook": "x",
-        "Instagram": 123,
-        "Payment Plan": "aaa",
-        "Pent-H.SF Av.P": "Polygon 3",
-        "Delivery": 5555
+        "Installments": "",
+        "Launched": 2018,
+        "Facebook": "19,821",
+        "Instagram": "1,072",
+        "Payment Plan": "",
+        "Pent-H.SF Av.P": "",
+        "Delivery": 2023
       }
     },
     {
@@ -228,14 +228,14 @@
         ]
       },
       "properties": {
-        "Developer": null,
-        "Project": null,
+        "Developer": "SUD",
+        "Project": "CAPITAL HEIGHTS 1",
         "Consulting": null,
-        "Location": null,
-        "Area": null,
+        "Location": "R7",
+        "Area": "59 acre",
         "BUA": null,
         "Apart.SF Av.P": null,
-        "Apart.FF Av.P": null,
+        "Apart.FF Av.P": "12,500",
         "Pent-H.FF Av.P": null,
         "Dupl.SF Av.P": null,
         "Dupl.FF Av.P": null,
@@ -243,13 +243,13 @@
         "Town-H.FF Av.P": null,
         "Twin-H.SF Av.P": null,
         "Twin-H.FF Av.P": null,
-        "Installments": 2,
-        "Launched": null,
-        "Facebook": "c",
-        "Instagram": 23,
-        "Payment Plan": null,
-        "Pent-H.SF Av.P": "Polygon 4",
-        "Delivery": null
+        "Installments": 8,
+        "Launched": 2017,
+        "Facebook": "136,373",
+        "Instagram": "2,112",
+        "Payment Plan": "10%+6Y+0%Del",
+        "Pent-H.SF Av.P": "",
+        "Delivery": 2021
       }
     },
     {

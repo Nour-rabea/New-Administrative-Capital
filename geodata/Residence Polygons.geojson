@@ -36,8 +36,6 @@
         ]
       },
       "properties": {
-        "name": "CASTLE LANDMARK",
-        "description": "Castle Development",
         "Developer": "Castle Development",
         "Project": "Castle Landmark",
         "Consulting": "castle",
@@ -112,7 +110,6 @@
         ]
       },
       "properties": {
-        "description": "Better Home",
         "Developer": "Better Home",
         "Project": "MIDTOWN VILLA",
         "Consulting": null,
@@ -134,8 +131,7 @@
         "Instagram": "1,201",
         "Payment Plan": "10%+6Y+0%Del",
         "Pent-H.SF Av.P": "",
-        "Delivery": null,
-        "name": "MIDTOWN VILLA"
+        "Delivery": null
       }
     },
     {
@@ -173,9 +169,8 @@
         ]
       },
       "properties": {
-        "description": null,
-        "Developer": null,
-        "Project": null,
+        "Developer": "MBG",
+        "Project": "PUKKA",
         "Consulting": null,
         "Location": null,
         "Area": null,
@@ -233,7 +228,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -308,7 +302,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -398,7 +391,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -468,7 +460,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -558,7 +549,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -688,7 +678,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -778,7 +767,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -858,7 +846,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -943,7 +930,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1013,7 +999,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1133,7 +1118,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1213,7 +1197,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1328,7 +1311,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1418,7 +1400,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1493,7 +1474,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1563,7 +1543,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1643,7 +1622,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1733,7 +1711,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1813,7 +1790,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1898,7 +1874,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -1973,7 +1948,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2063,7 +2037,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2153,7 +2126,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2218,7 +2190,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2288,7 +2259,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2348,7 +2318,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2453,7 +2422,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2558,7 +2526,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2618,7 +2585,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2733,7 +2699,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2863,7 +2828,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -2953,7 +2917,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3058,7 +3021,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3168,7 +3130,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3263,7 +3224,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3383,7 +3343,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3493,7 +3452,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3588,7 +3546,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3698,7 +3655,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3798,7 +3754,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3878,7 +3833,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -3958,7 +3912,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -4048,7 +4001,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -4108,7 +4060,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "نادي هيئة اعضاء التدريس جامعة عين شمس‎‎",
         "Project": null,
         "Consulting": null,
@@ -4173,7 +4124,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "جمعية دريم للاسكان التعاوني",
         "Project": null,
         "Consulting": null,
@@ -4243,7 +4193,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "Better Hose",
         "Project": null,
         "Consulting": null,
@@ -4318,7 +4267,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "Aqar Masr",
         "Project": null,
         "Consulting": null,
@@ -4383,7 +4331,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "شركة العائلة للاستثمارات العقاريه ",
         "Project": null,
         "Consulting": null,
@@ -4448,7 +4395,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "Corner Stone",
         "Project": null,
         "Consulting": null,
@@ -4508,7 +4454,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "جمعية كبار رجال القضاء\n‎‎",
         "Project": null,
         "Consulting": null,
@@ -4573,7 +4518,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "Laverd",
         "Project": null,
         "Consulting": null,
@@ -4638,7 +4582,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "Enmaa جمعية النماء لضباط العاملين بادارة مباحث القاهرة",
         "Project": null,
         "Consulting": null,
@@ -4703,7 +4646,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "المروة للمقاولات والاستثمار العقاري\n‎‎",
         "Project": null,
         "Consulting": null,
@@ -4763,7 +4705,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "جمعية الحكماء\n‎",
         "Project": null,
         "Consulting": null,
@@ -4833,7 +4774,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": "الجمعية التعاونية للبناء والاسكان بهيئة الكهرباء\n‎‎",
         "Project": null,
         "Consulting": null,
@@ -4898,7 +4838,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -4968,7 +4907,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5033,7 +4971,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5108,7 +5045,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5278,7 +5214,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5413,7 +5348,6 @@
         ]
       },
       "properties": {
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5588,8 +5522,6 @@
         ]
       },
       "properties": {
-        "name": "Polygon 65",
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,
@@ -5704,8 +5636,6 @@
         ]
       },
       "properties": {
-        "name": "Polygon 66",
-        "description": null,
         "Developer": null,
         "Project": null,
         "Consulting": null,

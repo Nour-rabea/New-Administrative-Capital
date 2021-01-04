@@ -6,7 +6,7 @@
       "properties": {
         "stroke": "#ff0000",
         "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-opacity": 0.6,
         "Name": 1
       },
       "geometry": {
@@ -99,8 +99,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ff0000",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-width": 1.5,
+        "stroke-opacity": 0.5,
         "Name": 2
       },
       "geometry": {
@@ -193,8 +193,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#ff0000",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-width": 1,
+        "stroke-opacity": 0.5,
         "Name": 3
       },
       "geometry": {

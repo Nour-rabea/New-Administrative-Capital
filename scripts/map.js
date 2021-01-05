@@ -1,4 +1,5 @@
 $(window).on('load', function() {
+<iframe src="https://nour-rabea.github.io/chartjs-bar./" width="940" height="480"></iframe> <iframe>
   var documentSettings = {};
   var markerColors = [];
 

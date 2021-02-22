@@ -60,7 +60,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Castle Landmark",
-        "sales %": 70
+        "sales %": 70,
+        "Losing Area": 22.5
       }
     },
     {
@@ -137,7 +138,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "MIDTOWN VILLA",
-        "sales %": 100
+        "sales %": 100,
+        "Losing Area": 20
       }
     },
     {
@@ -199,7 +201,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "PUKKA",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 23.5
       }
     },
     {
@@ -261,7 +264,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "CAPITAL HEIGHTS 1",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 25
       }
     },
     {
@@ -338,7 +342,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Scenario",
-        "sales %": 95
+        "sales %": 95,
+        "Losing Area": 25
       }
     },
     {
@@ -430,7 +435,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Entrada",
-        "sales %": 85
+        "sales %": 85,
+        "Losing Area": 19
       }
     },
     {
@@ -502,7 +508,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Atika",
-        "sales %": 65
+        "sales %": 65,
+        "Losing Area": 18
       }
     },
     {
@@ -594,7 +601,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Midtown SKY",
-        "sales %": 60
+        "sales %": 60,
+        "Losing Area": 20
       }
     },
     {
@@ -726,7 +734,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "The City Valley",
-        "sales %": 85
+        "sales %": 85,
+        "Losing Area": 15
       }
     },
     {
@@ -818,7 +827,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Vinci",
-        "sales %": 40
+        "sales %": 40,
+        "Losing Area": 20
       }
     },
     {
@@ -900,7 +910,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "OIA",
-        "sales %": 85
+        "sales %": 85,
+        "Losing Area": 30
       }
     },
     {
@@ -987,7 +998,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Janoub",
-        "sales %": 70
+        "sales %": 70,
+        "Losing Area": 22
       }
     },
     {
@@ -1059,7 +1071,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Il Mondo",
-        "sales %": 90
+        "sales %": 90,
+        "Losing Area": 25
       }
     },
     {
@@ -1181,7 +1194,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "The City",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 16
       }
     },
     {
@@ -1263,7 +1277,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Midtown Condo",
-        "sales %": 60
+        "sales %": 60,
+        "Losing Area": 20
       }
     },
     {
@@ -1380,7 +1395,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Town Gate",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 21.5
       }
     },
     {
@@ -1472,7 +1488,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Serano",
-        "sales %": 95
+        "sales %": 95,
+        "Losing Area": 18
       }
     },
     {
@@ -1549,7 +1566,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "la Capitale",
-        "sales %": 100
+        "sales %": 100,
+        "Losing Area": ""
       }
     },
     {
@@ -1621,7 +1639,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Sueno",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -1703,7 +1722,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Green Avenue",
-        "sales %": 95
+        "sales %": 95,
+        "Losing Area": 20
       }
     },
     {
@@ -1795,7 +1815,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Sky Capital",
-        "sales %": 100
+        "sales %": 100,
+        "Losing Area": 20.5
       }
     },
     {
@@ -1877,7 +1898,8 @@
         "V.SF Av.P": 18188,
         "V.FF Av.P": null,
         "Project": "Catalan",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 18
       }
     },
     {
@@ -1964,7 +1986,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "The Loft",
-        "sales %": 70
+        "sales %": 70,
+        "Losing Area": 21.5
       }
     },
     {
@@ -2041,7 +2064,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Gasco ",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2133,7 +2157,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Park Lane",
-        "sales %": 70
+        "sales %": 70,
+        "Losing Area": 20
       }
     },
     {
@@ -2225,7 +2250,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "La Capitale Suite Lagoon",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2292,7 +2318,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Zavani",
-        "sales %": 60
+        "sales %": 60,
+        "Losing Area": 22.5
       }
     },
     {
@@ -2364,7 +2391,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Armonia",
-        "sales %": 40
+        "sales %": 40,
+        "Losing Area": 19
       }
     },
     {
@@ -2426,7 +2454,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "solana ",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2533,7 +2562,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Golden Egale",
-        "sales %": 55
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2640,7 +2670,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Boardwalk",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2702,7 +2733,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Scene 7",
-        "sales %": 80
+        "sales %": 80,
+        "Losing Area": 22.5
       }
     },
     {
@@ -2819,7 +2851,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Le Ciel",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -2951,7 +2984,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "City Oval",
-        "sales %": 83
+        "sales %": 83,
+        "Losing Area": 17.5
       }
     },
     {
@@ -3043,7 +3077,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Rivan",
-        "sales %": 60
+        "sales %": 60,
+        "Losing Area": 18
       }
     },
     {
@@ -3150,7 +3185,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Commercial area",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3262,7 +3298,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Nokhba ",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3359,7 +3396,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Army Housing- zohour",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3481,7 +3519,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Al Fadeaa",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3593,7 +3632,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Azaher",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3690,7 +3730,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Commercial area",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3802,7 +3843,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Tiba Rose",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -3904,7 +3946,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Il Bosco",
-        "sales %": 65
+        "sales %": 65,
+        "Losing Area": 20
       }
     },
     {
@@ -3986,7 +4029,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Capital Heights 2",
-        "sales %": 55
+        "sales %": 55,
+        "Losing Area": 0
       }
     },
     {
@@ -4068,7 +4112,8 @@
         "V.SF Av.P": 26425,
         "V.FF Av.P": null,
         "Project": "Midtown Solo",
-        "sales %": 90
+        "sales %": 90,
+        "Losing Area": 20
       }
     },
     {
@@ -4160,7 +4205,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Stella Park",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -4288,7 +4334,8 @@
         "V.SF Av.P": 21000,
         "V.FF Av.P": null,
         "Project": "Capital Dream",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -4435,7 +4482,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Anakaji",
-        "sales %": 45
+        "sales %": 45,
+        "Losing Area": 23
       }
     },
     {
@@ -4567,7 +4615,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "The Curve",
-        "sales %": 41
+        "sales %": 41,
+        "Losing Area": ""
       }
     },
     {
@@ -4694,7 +4743,8 @@
         "V.SF Av.P": 13750,
         "V.FF Av.P": null,
         "Project": "Laverde",
-        "sales %": 70
+        "sales %": 70,
+        "Losing Area": 20
       }
     },
     {
@@ -4825,7 +4875,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Menorca"
+        "Project": "Menorca",
+        "Losing Area": ""
       }
     },
     {
@@ -4886,7 +4937,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Roses"
+        "Project": "Roses",
+        "Losing Area": ""
       }
     },
     {
@@ -5023,7 +5075,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Bleu Vert",
-        "sales %": 20
+        "sales %": 20,
+        "Losing Area": 18
       }
     },
     {
@@ -5095,7 +5148,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Captial Way",
-        "sales %": 90
+        "sales %": 90,
+        "Losing Area": 19
       }
     },
     {
@@ -5162,7 +5216,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Golden Yard",
-        "sales %": 55
+        "sales %": 55,
+        "Losing Area": 20
       }
     },
     {
@@ -5409,7 +5464,8 @@
         "V.SF Av.P": 21000,
         "V.FF Av.P": null,
         "Project": "Celia",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": 21
       }
     },
     {
@@ -5546,7 +5602,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": 27500,
         "Project": "Al Maqsad",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -5839,7 +5896,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Lavista City",
-        "sales %": 69
+        "sales %": 69,
+        "Losing Area": 12
       }
     },
     {
@@ -5961,7 +6019,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "Rhodes",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     },
     {
@@ -6028,7 +6087,8 @@
         "V.SF Av.P": null,
         "V.FF Av.P": null,
         "Project": "El Masa Captial",
-        "sales %": ""
+        "sales %": "",
+        "Losing Area": ""
       }
     }
   ]

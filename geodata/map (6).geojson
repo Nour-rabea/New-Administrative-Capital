@@ -59,7 +59,8 @@
         "Delivery": 2021,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Castle Landmark"
+        "Project": "Castle Landmark",
+        "sales %": 70
       }
     },
     {
@@ -135,7 +136,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "MIDTOWN VILLA"
+        "Project": "MIDTOWN VILLA",
+        "sales %": 100
       }
     },
     {
@@ -196,7 +198,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "PUKKA"
+        "Project": "PUKKA",
+        "sales %": 80
       }
     },
     {
@@ -257,7 +260,8 @@
         "Delivery": 2021,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "CAPITAL HEIGHTS 1"
+        "Project": "CAPITAL HEIGHTS 1",
+        "sales %": 80
       }
     },
     {
@@ -333,7 +337,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Scenario"
+        "Project": "Scenario",
+        "sales %": 95
       }
     },
     {
@@ -424,7 +429,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Entrada"
+        "Project": "Entrada",
+        "sales %": 85
       }
     },
     {
@@ -495,7 +501,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Atika"
+        "Project": "Atika",
+        "sales %": 65
       }
     },
     {
@@ -586,7 +593,8 @@
         "Delivery": 2021,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Midtown SKY"
+        "Project": "Midtown SKY",
+        "sales %": 60
       }
     },
     {
@@ -717,7 +725,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "The City Valley"
+        "Project": "The City Valley",
+        "sales %": 85
       }
     },
     {
@@ -808,7 +817,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Vinci"
+        "Project": "Vinci",
+        "sales %": 40
       }
     },
     {
@@ -889,7 +899,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "OIA"
+        "Project": "OIA",
+        "sales %": 85
       }
     },
     {
@@ -975,7 +986,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Janoub"
+        "Project": "Janoub",
+        "sales %": 70
       }
     },
     {
@@ -1046,7 +1058,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Il Mondo"
+        "Project": "Il Mondo",
+        "sales %": 90
       }
     },
     {
@@ -1167,7 +1180,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "The City"
+        "Project": "The City",
+        "sales %": 80
       }
     },
     {
@@ -1248,7 +1262,8 @@
         "Delivery": 2024,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Midtown Condo"
+        "Project": "Midtown Condo",
+        "sales %": 60
       }
     },
     {
@@ -1364,7 +1379,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Town Gate"
+        "Project": "Town Gate",
+        "sales %": 80
       }
     },
     {
@@ -1455,7 +1471,8 @@
         "Delivery": 2021,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Serano"
+        "Project": "Serano",
+        "sales %": 95
       }
     },
     {
@@ -1531,7 +1548,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "la Capitale"
+        "Project": "la Capitale",
+        "sales %": 100
       }
     },
     {
@@ -1602,7 +1620,8 @@
         "Delivery": 2021,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Sueno"
+        "Project": "Sueno",
+        "sales %": ""
       }
     },
     {
@@ -1683,7 +1702,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Green Avenue"
+        "Project": "Green Avenue",
+        "sales %": 95
       }
     },
     {
@@ -1774,7 +1794,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Sky Capital"
+        "Project": "Sky Capital",
+        "sales %": 100
       }
     },
     {
@@ -1855,7 +1876,8 @@
         "Delivery": 2022,
         "V.SF Av.P": 18188,
         "V.FF Av.P": null,
-        "Project": "Catalan"
+        "Project": "Catalan",
+        "sales %": 80
       }
     },
     {
@@ -1941,7 +1963,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "The Loft"
+        "Project": "The Loft",
+        "sales %": 70
       }
     },
     {
@@ -2017,7 +2040,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Gasco "
+        "Project": "Gasco ",
+        "sales %": ""
       }
     },
     {
@@ -2108,7 +2132,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Park Lane"
+        "Project": "Park Lane",
+        "sales %": 70
       }
     },
     {
@@ -2199,7 +2224,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "La Capitale Suite Lagoon"
+        "Project": "La Capitale Suite Lagoon",
+        "sales %": ""
       }
     },
     {
@@ -2265,7 +2291,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Zavani"
+        "Project": "Zavani",
+        "sales %": 60
       }
     },
     {
@@ -2336,7 +2363,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Armonia"
+        "Project": "Armonia",
+        "sales %": 40
       }
     },
     {
@@ -2397,7 +2425,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "solana "
+        "Project": "solana ",
+        "sales %": ""
       }
     },
     {
@@ -2503,7 +2532,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Golden Egale"
+        "Project": "Golden Egale",
+        "sales %": 55
       }
     },
     {
@@ -2609,7 +2639,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Boardwalk"
+        "Project": "Boardwalk",
+        "sales %": ""
       }
     },
     {
@@ -2670,7 +2701,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Scene 7"
+        "Project": "Scene 7",
+        "sales %": 80
       }
     },
     {
@@ -2786,7 +2818,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Le Ciel"
+        "Project": "Le Ciel",
+        "sales %": ""
       }
     },
     {
@@ -2917,7 +2950,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "City Oval"
+        "Project": "City Oval",
+        "sales %": 83
       }
     },
     {
@@ -3008,7 +3042,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Rivan"
+        "Project": "Rivan",
+        "sales %": 60
       }
     },
     {
@@ -3114,7 +3149,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Commercial area"
+        "Project": "Commercial area",
+        "sales %": ""
       }
     },
     {
@@ -3225,7 +3261,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Nokhba "
+        "Project": "Nokhba ",
+        "sales %": ""
       }
     },
     {
@@ -3321,7 +3358,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Army Housing- zohour"
+        "Project": "Army Housing- zohour",
+        "sales %": ""
       }
     },
     {
@@ -3442,7 +3480,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Al Fadeaa"
+        "Project": "Al Fadeaa",
+        "sales %": ""
       }
     },
     {
@@ -3553,7 +3592,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Azaher"
+        "Project": "Azaher",
+        "sales %": ""
       }
     },
     {
@@ -3649,7 +3689,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Commercial area"
+        "Project": "Commercial area",
+        "sales %": ""
       }
     },
     {
@@ -3760,7 +3801,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Tiba Rose"
+        "Project": "Tiba Rose",
+        "sales %": ""
       }
     },
     {
@@ -3861,7 +3903,8 @@
         "Delivery": 2020,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Il Bosco"
+        "Project": "Il Bosco",
+        "sales %": 65
       }
     },
     {
@@ -3942,7 +3985,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Capital Heights 2"
+        "Project": "Capital Heights 2",
+        "sales %": 55
       }
     },
     {
@@ -4023,7 +4067,8 @@
         "Delivery": 2024,
         "V.SF Av.P": 26425,
         "V.FF Av.P": null,
-        "Project": "Midtown Solo"
+        "Project": "Midtown Solo",
+        "sales %": 90
       }
     },
     {
@@ -4114,7 +4159,8 @@
         "Delivery": 2022,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Stella Park"
+        "Project": "Stella Park",
+        "sales %": ""
       }
     },
     {
@@ -4174,7 +4220,8 @@
         "Pent-H.SF Av.P": null,
         "Delivery": null,
         "V.SF Av.P": null,
-        "V.FF Av.P": null
+        "V.FF Av.P": null,
+        "sales %": ""
       }
     },
     {
@@ -4240,7 +4287,8 @@
         "Delivery": 2023,
         "V.SF Av.P": 21000,
         "V.FF Av.P": null,
-        "Project": "Capital Dream"
+        "Project": "Capital Dream",
+        "sales %": ""
       }
     },
     {
@@ -4386,7 +4434,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Anakaji"
+        "Project": "Anakaji",
+        "sales %": 45
       }
     },
     {
@@ -4517,7 +4566,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "The Curve"
+        "Project": "The Curve",
+        "sales %": 41
       }
     },
     {
@@ -4643,7 +4693,8 @@
         "Delivery": 2022,
         "V.SF Av.P": 13750,
         "V.FF Av.P": null,
-        "Project": "Laverde"
+        "Project": "Laverde",
+        "sales %": 70
       }
     },
     {
@@ -4971,7 +5022,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Bleu Vert"
+        "Project": "Bleu Vert",
+        "sales %": 20
       }
     },
     {
@@ -5042,7 +5094,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Captial Way"
+        "Project": "Captial Way",
+        "sales %": 90
       }
     },
     {
@@ -5108,7 +5161,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Golden Yard"
+        "Project": "Golden Yard",
+        "sales %": 55
       }
     },
     {
@@ -5354,7 +5408,8 @@
         "Delivery": 2024,
         "V.SF Av.P": 21000,
         "V.FF Av.P": null,
-        "Project": "Celia"
+        "Project": "Celia",
+        "sales %": ""
       }
     },
     {
@@ -5490,7 +5545,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": 27500,
-        "Project": "Al Maqsad"
+        "Project": "Al Maqsad",
+        "sales %": ""
       }
     },
     {
@@ -5782,7 +5838,8 @@
         "Delivery": 2023,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Lavista City"
+        "Project": "Lavista City",
+        "sales %": 69
       }
     },
     {
@@ -5903,7 +5960,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "Rhodes"
+        "Project": "Rhodes",
+        "sales %": ""
       }
     },
     {
@@ -5969,7 +6027,8 @@
         "Delivery": null,
         "V.SF Av.P": null,
         "V.FF Av.P": null,
-        "Project": "El Masa Captial"
+        "Project": "El Masa Captial",
+        "sales %": ""
       }
     }
   ]

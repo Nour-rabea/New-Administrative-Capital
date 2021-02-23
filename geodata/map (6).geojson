@@ -40,7 +40,7 @@
         "Consulting": "OKOPLAN",
         "Location": "R7 A1",
         "Area": "43 acre",
-        "BUA": "19%",
+        "BUA": 19,
         "Installments": 12,
         "Launched": 2018,
         "Facebook": 14668,
@@ -48,8 +48,8 @@
         "Payment Plan": "10%+10Y+15%Del",
         "Delivery": 2021,
         "Project": "Castle Landmark",
-        "sales %": "70%",
-        "Losing Area": "22.5%"
+        "sales %": 70,
+        "Losing Area": 22.5
       }
     },
     {
@@ -114,8 +114,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": null,
         "Project": "MIDTOWN VILLA",
-        "sales %": "100%",
-        "Losing Area": "20%"
+        "sales %": 100,
+        "Losing Area": 20
       }
     },
     {
@@ -165,8 +165,8 @@
         "Payment Plan": null,
         "Delivery": 2023,
         "Project": "PUKKA",
-        "sales %": "80%",
-        "Losing Area": "23.5%"
+        "sales %": 80,
+        "Losing Area": 23.5
       }
     },
     {
@@ -216,8 +216,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": 2021,
         "Project": "CAPITAL HEIGHTS 1",
-        "sales %": "80%",
-        "Losing Area": "25%"
+        "sales %": 80,
+        "Losing Area": 25
       }
     },
     {
@@ -274,7 +274,7 @@
         "Consulting": "YBA ياسر البلتاجي",
         "Location": "R7 A2",
         "Area": "39 acre",
-        "BUA": "19%",
+        "BUA": 19,
         "Installments": 10,
         "Launched": 2018,
         "Facebook": 19595,
@@ -282,8 +282,8 @@
         "Payment Plan": "0%+5Y+0%Del",
         "Delivery": 2024,
         "Project": "Scenario",
-        "sales %": "95%",
-        "Losing Area": "25%"
+        "sales %": 95,
+        "Losing Area": 25
       }
     },
     {
@@ -355,7 +355,7 @@
         "Consulting": null,
         "Location": "R7 B1",
         "Area": "72 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": 8,
         "Launched": 2018,
         "Facebook": 33868,
@@ -363,8 +363,8 @@
         "Payment Plan": "0%+4Y+0%Del",
         "Delivery": 2024,
         "Project": "Entrada",
-        "sales %": "85%",
-        "Losing Area": "19%"
+        "sales %": 85,
+        "Losing Area": 19
       }
     },
     {
@@ -416,7 +416,7 @@
         "Consulting": null,
         "Location": "R7 G1",
         "Area": "35 acre",
-        "BUA": "18%",
+        "BUA": 18,
         "Installments": 10,
         "Launched": 2019,
         "Facebook": 54671,
@@ -424,8 +424,8 @@
         "Payment Plan": "0%+4Y+0%Del",
         "Delivery": 2024,
         "Project": "Atika",
-        "sales %": "65%",
-        "Losing Area": "18%"
+        "sales %": 65,
+        "Losing Area": 18
       }
     },
     {
@@ -497,7 +497,7 @@
         "Consulting": null,
         "Location": "R7 G3",
         "Area": "66 acre",
-        "BUA": "18%",
+        "BUA": 18,
         "Installments": 6,
         "Launched": 2018,
         "Facebook": 12038,
@@ -505,8 +505,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": 2021,
         "Project": "Midtown SKY",
-        "sales %": "60%",
-        "Losing Area": "20%"
+        "sales %": 60,
+        "Losing Area": 20
       }
     },
     {
@@ -626,8 +626,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "The City Valley",
-        "sales %": "85%",
-        "Losing Area": "15%"
+        "sales %": 85,
+        "Losing Area": 15
       }
     },
     {
@@ -707,8 +707,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Vinci",
-        "sales %": "40%",
-        "Losing Area": "20%"
+        "sales %": 40,
+        "Losing Area": 20
       }
     },
     {
@@ -770,7 +770,7 @@
         "Consulting": null,
         "Location": "R7 G5",
         "Area": "30 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": null,
         "Launched": 2018,
         "Facebook": 24864,
@@ -778,8 +778,8 @@
         "Payment Plan": null,
         "Delivery": 2024,
         "Project": "OIA",
-        "sales %": "85%",
-        "Losing Area": "30%"
+        "sales %": 85,
+        "Losing Area": 30
       }
     },
     {
@@ -854,8 +854,8 @@
         "Payment Plan": "10%+4Y+0%Del",
         "Delivery": 2024,
         "Project": "Janoub",
-        "sales %": "70%",
-        "Losing Area": "22%"
+        "sales %": 70,
+        "Losing Area": 22
       }
     },
     {
@@ -915,8 +915,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Il Mondo",
-        "sales %": "90%",
-        "Losing Area": "25%"
+        "sales %": 90,
+        "Losing Area": 25
       }
     },
     {
@@ -1026,8 +1026,8 @@
         "Payment Plan": "5%+5Y+0%Del",
         "Delivery": null,
         "Project": "The City",
-        "sales %": "80%",
-        "Losing Area": "16%"
+        "sales %": 80,
+        "Losing Area": 16
       }
     },
     {
@@ -1089,7 +1089,7 @@
         "Consulting": null,
         "Location": "R7",
         "Area": "60 acre",
-        "BUA": "18%",
+        "BUA": 18,
         "Installments": 6,
         "Launched": 2018,
         "Facebook": 12038,
@@ -1097,8 +1097,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": 2024,
         "Project": "Midtown Condo",
-        "sales %": "60%",
-        "Losing Area": "20%"
+        "sales %": 60,
+        "Losing Area": 20
       }
     },
     {
@@ -1203,8 +1203,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Town Gate",
-        "sales %": "80%",
-        "Losing Area": "21.5%"
+        "sales %": 80,
+        "Losing Area": 21.5
       }
     },
     {
@@ -1284,8 +1284,8 @@
         "Payment Plan": "0%+4Y+0%Del",
         "Delivery": 2021,
         "Project": "Serano",
-        "sales %": "95%",
-        "Losing Area": "18%"
+        "sales %": 95,
+        "Losing Area": 18
       }
     },
     {
@@ -1350,7 +1350,7 @@
         "Payment Plan": "0%+8Y+0%Del",
         "Delivery": null,
         "Project": "la Capitale",
-        "sales %": "100%",
+        "sales %": 100,
         "Losing Area": ""
       }
     },
@@ -1482,8 +1482,8 @@
         "Payment Plan": "5%+7Y+0%Del",
         "Delivery": 2022,
         "Project": "Green Avenue",
-        "sales %": "95%",
-        "Losing Area": "20%"
+        "sales %": 95,
+        "Losing Area": 20
       }
     },
     {
@@ -1563,8 +1563,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Sky Capital",
-        "sales %": "100%",
-        "Losing Area": "20.5%"
+        "sales %": 100,
+        "Losing Area": 20.5
       }
     },
     {
@@ -1626,7 +1626,7 @@
         "Consulting": null,
         "Location": "R7 I3",
         "Area": "40 acre",
-        "BUA": "11%",
+        "BUA": 11,
         "Installments": null,
         "Launched": 2018,
         "Facebook": null,
@@ -1634,8 +1634,8 @@
         "Payment Plan": null,
         "Delivery": 2022,
         "Project": "Catalan",
-        "sales %": "80%",
-        "Losing Area": "18%"
+        "sales %": 80,
+        "Losing Area": 18
       }
     },
     {
@@ -1710,8 +1710,8 @@
         "Payment Plan": "0%+6Y+10%Del",
         "Delivery": null,
         "Project": "The Loft",
-        "sales %": "70%",
-        "Losing Area": "21.5%"
+        "sales %": 70,
+        "Losing Area": 21.5
       }
     },
     {
@@ -1857,8 +1857,8 @@
         "Payment Plan": "7%+6Y+0%Del",
         "Delivery": null,
         "Project": "Park Lane",
-        "sales %": "70%",
-        "Losing Area": "20%"
+        "sales %": 70,
+        "Losing Area": 20
       }
     },
     {
@@ -1994,8 +1994,8 @@
         "Payment Plan": "5%+7Y+0%Del",
         "Delivery": 2023,
         "Project": "Zavani",
-        "sales %": "60%",
-        "Losing Area": "22.5%"
+        "sales %": 60,
+        "Losing Area": 22.5
       }
     },
     {
@@ -2055,8 +2055,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Armonia",
-        "sales %": "40%",
-        "Losing Area": "19%"
+        "sales %": 40,
+        "Losing Area": 19
       }
     },
     {
@@ -2290,7 +2290,7 @@
         "Consulting": null,
         "Location": "R7 L5",
         "Area": "45 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": null,
         "Launched": 2019,
         "Facebook": null,
@@ -2349,8 +2349,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Scene 7",
-        "sales %": "80%",
-        "Losing Area": "22.5%"
+        "sales %": 80,
+        "Losing Area": 22.5
       }
     },
     {
@@ -2576,8 +2576,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "City Oval",
-        "sales %": "83%",
-        "Losing Area": "17.5%"
+        "sales %": 83,
+        "Losing Area": 17.5
       }
     },
     {
@@ -2649,7 +2649,7 @@
         "Consulting": null,
         "Location": "R7 F5",
         "Area": "17 acre",
-        "BUA": "18%",
+        "BUA": 18,
         "Installments": null,
         "Launched": 2019,
         "Facebook": null,
@@ -2657,8 +2657,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Rivan",
-        "sales %": "60%",
-        "Losing Area": "18%"
+        "sales %": 60,
+        "Losing Area": 18
       }
     },
     {
@@ -3422,7 +3422,7 @@
         "Consulting": "ECB انجنيرينج بيرو",
         "Location": "R7",
         "Area": "200 acre",
-        "BUA": "22%",
+        "BUA": 22,
         "Installments": null,
         "Launched": 2017,
         "Facebook": 104883,
@@ -3430,8 +3430,8 @@
         "Payment Plan": null,
         "Delivery": 2020,
         "Project": "Il Bosco",
-        "sales %": "65%",
-        "Losing Area": "20%"
+        "sales %": 65,
+        "Losing Area": 20
       }
     },
     {
@@ -3493,7 +3493,7 @@
         "Consulting": null,
         "Location": "R7",
         "Area": "57 acre",
-        "BUA": "19%",
+        "BUA": 19,
         "Installments": 8,
         "Launched": 2018,
         "Facebook": 136373,
@@ -3501,8 +3501,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": 2022,
         "Project": "Capital Heights 2",
-        "sales %": "55%",
-        "Losing Area": "0%"
+        "sales %": 55,
+        "Losing Area": 0
       }
     },
     {
@@ -3564,7 +3564,7 @@
         "Consulting": null,
         "Location": "R7",
         "Area": "50 acre",
-        "BUA": "19%",
+        "BUA": 19,
         "Installments": 6,
         "Launched": 2017,
         "Facebook": 12038,
@@ -3572,8 +3572,8 @@
         "Payment Plan": "10%+6Y+0%Del",
         "Delivery": 2024,
         "Project": "Midtown Solo",
-        "sales %": "90%",
-        "Losing Area": "20%"
+        "sales %": 90,
+        "Losing Area": 20
       }
     },
     {
@@ -3750,7 +3750,7 @@
         "Consulting": null,
         "Location": "R8 H2",
         "Area": "35.54 acre",
-        "BUA": "21%",
+        "BUA": 21,
         "Installments": 6,
         "Launched": null,
         "Facebook": null,
@@ -3874,7 +3874,7 @@
         "Consulting": null,
         "Location": "R8 I4",
         "Area": "16.98 acre",
-        "BUA": "19%",
+        "BUA": 19,
         "Installments": 12,
         "Launched": 2018,
         "Facebook": 9874,
@@ -3882,8 +3882,8 @@
         "Payment Plan": "10%+10Y+0%Del",
         "Delivery": 2023,
         "Project": "Anakaji",
-        "sales %": "45%",
-        "Losing Area": "23%"
+        "sales %": 45,
+        "Losing Area": 23
       }
     },
     {
@@ -4096,8 +4096,8 @@
         "Payment Plan": "0%+5Y+0%Del",
         "Delivery": 2022,
         "Project": "Laverde",
-        "sales %": "70%",
-        "Losing Area": "20%"
+        "sales %": 70,
+        "Losing Area": 20
       }
     },
     {
@@ -4368,8 +4368,8 @@
         "Payment Plan": null,
         "Delivery": null,
         "Project": "Bleu Vert",
-        "sales %": "20%",
-        "Losing Area": "18%"
+        "sales %": 20,
+        "Losing Area": 18
       }
     },
     {
@@ -4421,7 +4421,7 @@
         "Consulting": null,
         "Location": "R7",
         "Area": "42 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": null,
         "Launched": 2018,
         "Facebook": 22574,
@@ -4429,8 +4429,8 @@
         "Payment Plan": null,
         "Delivery": 2023,
         "Project": "Captial Way",
-        "sales %": "90%",
-        "Losing Area": "19%"
+        "sales %": 90,
+        "Losing Area": 19
       }
     },
     {
@@ -4477,7 +4477,7 @@
         "Consulting": "El Afifi Engineering",
         "Location": "R7 G2",
         "Area": "42 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": null,
         "Launched": 2019,
         "Facebook": 230018,
@@ -4485,8 +4485,8 @@
         "Payment Plan": null,
         "Delivery": 2023,
         "Project": "Golden Yard",
-        "sales %": "55%",
-        "Losing Area": "20%"
+        "sales %": 55,
+        "Losing Area": 20
       }
     },
     {
@@ -4710,7 +4710,7 @@
         "Delivery": 2024,
         "Project": "Celia",
         "sales %": "",
-        "Losing Area": "21%"
+        "Losing Area": 21
       }
     },
     {
@@ -4827,7 +4827,7 @@
         "Consulting": "CSCEC الصينية للهندسة الانشائية",
         "Location": "R3 D4+D5",
         "Area": "1000 acre",
-        "BUA": "20%",
+        "BUA": 20,
         "Installments": 7,
         "Launched": 2018,
         "Facebook": 37369,
@@ -4993,7 +4993,7 @@
         "Consulting": "CSCEC الصينية للهندسة الانشائية",
         "Location": "R5 D4",
         "Area": "211 acre",
-        "BUA": "22%",
+        "BUA": 22,
         "Installments": null,
         "Launched": 2019,
         "Facebook": 37369,
@@ -5097,7 +5097,7 @@
         "Consulting": null,
         "Location": "R4",
         "Area": "910 acre",
-        "BUA": "15%",
+        "BUA": 15,
         "Installments": null,
         "Launched": 2019,
         "Facebook": 94210,
@@ -5105,8 +5105,8 @@
         "Payment Plan": null,
         "Delivery": 2023,
         "Project": "Lavista City",
-        "sales %": "69%",
-        "Losing Area": "12%"
+        "sales %": 69,
+        "Losing Area": 12
       }
     },
     {
